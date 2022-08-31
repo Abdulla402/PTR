@@ -12,4 +12,6 @@ withdraw=amount-withdraw
 withdraw=8000-1000
 print('acc\t name\t branch\t ifsc\t phon\t email\t min_balance\t amount\t amount\t diposit\t withdraw\t')
 print(acc,'\t', name,'\t', branch,'\t', ifsc,'\t', phon,'\t', email,'\t', min_balance,'\t', amount,'\t', amount,'\t' ,diposit,'\t', withdraw,'\t')
+print("This is Abdulla")
+print("Doing coding in Github Account")
 
