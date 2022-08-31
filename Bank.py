@@ -14,6 +14,4 @@ deposit= min_balence+amount
 withdraw=amount- withdraw
 print('Account_number\n Cust_Name\n Branch_Code\n IFSC_Code\n pan_number\n Address\n Phone_Number\n Email\n min_balance\n amount\n widthdraw\n deposit\n widthdraw\n')
 print(Account_number,'\n',Cust_Name,'\n', Branch_Code,'\n', IFSC_Code,'\n', pan_number,'\n' ,Address,'\n' ,Phone_Number,'\n' ,Email,'\n',min_balance,'\n', amount,'\n' ,deposit,'\n' ,widthdraw,'\n')
-     
-      
-                  
+print("iam very bad boy")
